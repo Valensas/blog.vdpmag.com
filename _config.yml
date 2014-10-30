@@ -1,0 +1,16 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            'VDP Blog'
+tagline:          'News, Updates, Technical Resolutions'
+description:      'VDP Blog<br/>News, Updates, Technical Resolutions'
+url:              http://blog.vdpmag.com
+baseurl:          /
+
+paginate:         10
