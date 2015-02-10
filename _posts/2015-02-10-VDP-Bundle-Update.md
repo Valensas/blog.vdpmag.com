@@ -2,6 +2,7 @@
 layout: post
 title: Online Payments, Android Paid Subscriptions and more to come with VDP Update
 ---
+Hey there, we've finally managed to come around a new update. We know you've been waiting for some time now, but the wait is over. Here are some improvements that will make your life easier and help you focus a little more on the good stuff. This is just the start, we will keep you posted with some really nice features and updates throughout the year. Thank you for being patient and don't forget to follow us. If you have any questions you know where to find us (info [at] vdpmag [dot] com)
 
 **VDP MANAGER**
 
