@@ -19,7 +19,7 @@ Hey there, we've finally managed to come around a new update. We know you've bee
 *Table of Contents:* Creating a Table of Contents is much easier now. Add all articles at once under the Inspector Panel, ToC.
 
 <a href="http://www.vdpmag.com/downloading" style="width: 227px; height: 56px; margin: 0px; border:2px solid #292e78; padding:12px; color:#292e78; text-decoration:none; border-radius:5px;" width="227">DOWNLOAD NOW</a>
-<p>
+<br />
 
 **VDP VIEWER**
 
@@ -35,7 +35,7 @@ iOS 8.1.3 Update: Unclogged issues with HTML5, video and tiny others that came w
 *Scheduled Updates:* No need to stay in the office or by your computer in order to publish an issue. You can now easily schedule a magazine launch or update within VDP Portal and the servers will handle the rest.
 
 <a href="http://portal.vdpmag.com" style="width: 227px; height: 56px; margin: 0px; border:2px solid #292e78; padding:12px; color:#292e78; text-decoration:none; border-radius:5px;" width="227">SIGN UP/LOGIN</a>
-
+<br />
 
 **ANDROID PAID SUBSCRIPTIONS**
 
