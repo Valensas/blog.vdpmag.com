@@ -24,7 +24,6 @@ Hey there, we've finally managed to come around a new update. We know you've bee
 **VDP VIEWER**
 
 iOS 8.1.3 Update: Unclogged issues with HTML5, video and tiny others that came with iOS 8 versions.
-
 <br /><br />
 <a href="http://appstore.com/vdpviewer" style="width: 227px; height: 56px; margin: 0px; border:2px solid #292e78; padding:12px; color:#292e78; text-decoration:none; border-radius:5px;" width="227">DOWNLOAD NOW</a>
 <br /><br /><br />
@@ -34,7 +33,6 @@ iOS 8.1.3 Update: Unclogged issues with HTML5, video and tiny others that came w
 *Online Payments:* You can now easily manage your account with VDP. Eliminate all the paperwork, no chasing down agreements no hassling with invoices. Simply Subscribe/Unsubscribe using the new Payments option available within VDP Portal.
 
 *Scheduled Updates:* No need to stay in the office or by your computer in order to publish an issue. You can now easily schedule a magazine launch or update within VDP Portal and the servers will handle the rest.
-
 <br /><br />
 <a href="http://portal.vdpmag.com" style="width: 227px; height: 56px; margin: 0px; border:2px solid #292e78; padding:12px; color:#292e78; text-decoration:none; border-radius:5px;" width="227">SIGN UP/LOGIN</a>
 <br /><br /><br />
