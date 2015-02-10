@@ -24,7 +24,7 @@ Hey there, we've finally managed to come around a new update. We know you've bee
 
 iOS 8.1.3 Update: Unclogged issues with HTML5, video and tiny others that came with iOS 8 versions.
 
-<a href="http://appstore.com/vdpviewer" style="width: 227px; height: 56px; margin: 0px; border:2px solid blue; padding:12px; color:white; text-decoration:none; border-radius:5px;" width="227">DOWNLOAD NOW</a>
+<a href="http://appstore.com/vdpviewer" style="width: 227px; height: 56px; margin: 0px; border:2px solid #8e93e4; padding:12px; color:#8e93e4; text-decoration:none; border-radius:5px;" width="227">DOWNLOAD NOW</a>
 
 **VDP PORTAL**
 
@@ -32,7 +32,7 @@ iOS 8.1.3 Update: Unclogged issues with HTML5, video and tiny others that came w
 
 *Scheduled Updates:* No need to stay in the office or by your computer in order to publish an issue. You can now easily schedule a magazine launch or update within VDP Portal and the servers will handle the rest.
 
-<a href="http://portal.vdpmag.com" style="width: 227px; height: 56px; margin: 0px; border:2px solid blue; padding:12px; color:white; text-decoration:none; border-radius:5px;" width="227">SIGN UP/LOGIN</a>
+<a href="http://portal.vdpmag.com" style="width: 227px; height: 56px; margin: 0px; border:2px solid #8e93e4; padding:12px; color:#8e93e4; text-decoration:none; border-radius:5px;" width="227">SIGN UP/LOGIN</a>
 
 **ANDROID PAID SUBSCRIPTIONS**
 
