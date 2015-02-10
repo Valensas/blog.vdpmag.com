@@ -19,16 +19,20 @@ title: Online Payments, Android Paid Subscriptions and more to come with VDP Upd
 
 
 **VDP VIEWER**
+
 iOS 8.1.3 Update: Unclogged issues with HTML5, video and tiny others that came with iOS 8 versions.
 
 
 **VDP PORTAL**
+
 *Online Payments:* You can now easily manage your account with VDP. Eliminate all the paperwork, no chasing down agreements no hassling with invoices. Simply Subscribe/Unsubscribe using the new Payments option available within VDP Portal.
 
 *Scheduled Updates:* No need to stay in the office or by your computer in order to publish an issue. You can now easily schedule a magazine launch or update within VDP Portal and the servers will handle the rest.
 
 **OTHER**
+
 Bug Fixes: We squished some serious bugs that caused inefficiencies.
 
 **ANDROID PAID SUBSCRIPTIONS**
+
 Paid Subscriptions is now available on Android based smartphones. You can easily create your Android App directly within the VDP Portal and add paid subscription options with a single click. Configure your Android App today and engage with a broader audience, absolutely free.
