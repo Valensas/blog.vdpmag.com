@@ -29,10 +29,10 @@ iOS 8.1.3 Update: Unclogged issues with HTML5, video and tiny others that came w
 
 *Scheduled Updates:* No need to stay in the office or by your computer in order to publish an issue. You can now easily schedule a magazine launch or update within VDP Portal and the servers will handle the rest.
 
-**OTHER**
-
-Bug Fixes: We squished some serious bugs that caused inefficiencies.
-
 **ANDROID PAID SUBSCRIPTIONS**
 
 Paid Subscriptions is now available on Android based smartphones. You can easily create your Android App directly within the VDP Portal and add paid subscription options with a single click. Configure your Android App today and engage with a broader audience, absolutely free.
+
+**OTHER**
+
+Bug Fixes: We squished some serious bugs that caused inefficiencies.
