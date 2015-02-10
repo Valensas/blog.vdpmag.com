@@ -17,16 +17,17 @@ Hey there, we've finally managed to come around a new update. We know you've bee
 *Version Control:* Some of you like to work in teams or work from home. In this case you may experience trouble working on the latest version of a VDP file, and in order to prevent any data loss we developed version control. Each time you login to our servers VDP will check to see if there is a more up-to-date version, thus eliminating conflicts among multiple VDP files. If there is any conflict between your copy and the Server's copy, you will be notified by our new Sync button and expected to take action.
 
 *Table of Contents:* Creating a Table of Contents is much easier now. Add all articles at once under the Inspector Panel, ToC.
-
+<br /><br />
 <a href="http://www.vdpmag.com/downloading" style="width: 227px; height: 56px; margin: 0px; border:2px solid #292e78; padding:12px; color:#292e78; text-decoration:none; border-radius:5px;" width="227">DOWNLOAD NOW</a>
-<br /><br /><br /><br />
+<br /><br /><br />
 
 **VDP VIEWER**
 
 iOS 8.1.3 Update: Unclogged issues with HTML5, video and tiny others that came with iOS 8 versions.
 
+<br /><br />
 <a href="http://appstore.com/vdpviewer" style="width: 227px; height: 56px; margin: 0px; border:2px solid #292e78; padding:12px; color:#292e78; text-decoration:none; border-radius:5px;" width="227">DOWNLOAD NOW</a>
-<br />
+<br /><br /><br />
 
 **VDP PORTAL**
 
@@ -34,8 +35,9 @@ iOS 8.1.3 Update: Unclogged issues with HTML5, video and tiny others that came w
 
 *Scheduled Updates:* No need to stay in the office or by your computer in order to publish an issue. You can now easily schedule a magazine launch or update within VDP Portal and the servers will handle the rest.
 
+<br /><br />
 <a href="http://portal.vdpmag.com" style="width: 227px; height: 56px; margin: 0px; border:2px solid #292e78; padding:12px; color:#292e78; text-decoration:none; border-radius:5px;" width="227">SIGN UP/LOGIN</a>
-<br />
+<br /><br /><br />
 
 **ANDROID PAID SUBSCRIPTIONS**
 
