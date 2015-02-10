@@ -18,7 +18,7 @@ Hey there, we've finally managed to come around a new update. We know you've bee
 
 *Table of Contents:* Creating a Table of Contents is much easier now. Add all articles at once under the Inspector Panel, ToC.
 <br /><br />
-<a href="http://www.vdpmag.com/downloading" style="width: 227px; height: 56px; margin: 0px; border:2px solid #292e78; padding:12px; color:#292e78; text-decoration:none; border-radius:5px;" width="227">DOWNLOAD NOW</a>
+<a href="http://www.vdpmag.com/downloading target=_blank" style="width: 227px; height: 56px; margin: 0px; border:2px solid #292e78; padding:12px; color:#292e78; text-decoration:none; border-radius:5px;" width="227">DOWNLOAD NOW</a>
 <br /><br /><br />
 
 **VDP VIEWER**
