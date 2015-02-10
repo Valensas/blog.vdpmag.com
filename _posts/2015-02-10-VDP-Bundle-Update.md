@@ -26,7 +26,7 @@ Hey there, we've finally managed to come around a new update. We know you've bee
 iOS 8.1.3 Update: Unclogged issues with HTML5, video and tiny others that came with iOS 8 versions.
 
 <a href="http://appstore.com/vdpviewer" style="width: 227px; height: 56px; margin: 0px; border:2px solid #292e78; padding:12px; color:#292e78; text-decoration:none; border-radius:5px;" width="227">DOWNLOAD NOW</a>
-<p>
+<br />
 
 **VDP PORTAL**
 
